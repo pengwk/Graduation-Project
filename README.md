@@ -18,8 +18,12 @@
 
 ## 资料
 
+### IEEE论文
+
 [Low-Complexity Distributed Algorithms for Spectrum Balancing in Multi-User DSL Networks](http://ieeexplore.ieee.org/abstract/document/4024693/)
 
 [PDF文件](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.4399&rep=rep1&type=pdf)
+
+### 其他
 
 

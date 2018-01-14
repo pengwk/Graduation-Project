@@ -18,6 +18,7 @@
 
 ## 资料
 
-Low-Complexity Distributed Algorithms for Spectrum Balancing in Multi-User DSL Networks
+(Low-Complexity Distributed Algorithms for Spectrum Balancing in Multi-User DSL Networks)[
+http://ieeexplore.ieee.org/abstract/document/4024693/]
 
 
